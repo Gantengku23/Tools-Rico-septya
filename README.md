@@ -1,2 +1,2 @@
 # Tools-Rico-septya
-Menyediakan berbagai tools dan masih melakukan perupdatean always time 
+Menyediakan berbagai tools dan masih melakukan perupdate'an always time 
